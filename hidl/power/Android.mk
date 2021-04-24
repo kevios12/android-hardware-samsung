@@ -33,7 +33,6 @@ LOCAL_SHARED_LIBRARIES := \
     libutils \
     android.hardware.power@1.0
 
-LOCAL_STATIC_LIBRARIES := libc++fs
 
 LOCAL_MODULE := android.hardware.power@1.0-service.exynos
 LOCAL_INIT_RC := android.hardware.power@1.0-service.exynos.rc
