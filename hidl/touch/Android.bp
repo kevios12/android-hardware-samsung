@@ -28,7 +28,6 @@ cc_defaults {
         "libbinder",
         "libhidlbase",
         "libutils",
-        "vendor.lineage.touch@1.0",
     ],
 }
 
