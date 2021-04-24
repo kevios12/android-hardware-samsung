@@ -1,4 +1,3 @@
 # Hardware Tree - SAMSUNG
-Hardware/Samsung Tree. Based on LineageOS18.1
-
+Hardware/Samsung Tree for AOSP.
 How to Clone: git clone <URL.git> -b hardware/samsung
