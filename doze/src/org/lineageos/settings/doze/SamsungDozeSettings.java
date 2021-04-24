@@ -32,7 +32,6 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragment;
 import androidx.preference.SwitchPreference;
 
-//import org.lineageos.internal.util.ScreenType;
 
 public class SamsungDozeSettings extends PreferenceFragment
         implements CompoundButton.OnCheckedChangeListener, Preference.OnPreferenceChangeListener {
@@ -82,15 +81,6 @@ public class SamsungDozeSettings extends PreferenceFragment
         }
     }
 
-    //@Override
-    //public void onResume() {
-        //super.onResume();
-
-        // If running on a phone, remove padding around the listview
-        //if (!ScreenType.isTablet(getContext())) {
-      //      getListView().setPadding(0, 0, 0, 0);
-    //    }
-  //  }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
