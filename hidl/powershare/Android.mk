@@ -29,8 +29,7 @@ LOCAL_SHARED_LIBRARIES := \
     libbase \
     libbinder \
     libhidlbase \
-    libutils \
-    vendor.lineage.powershare@1.0
+    libutils
 
 LOCAL_MODULE := vendor.lineage.powershare@1.0-service.samsung
 LOCAL_INIT_RC := vendor.lineage.powershare@1.0-service.samsung.rc
